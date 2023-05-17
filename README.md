@@ -204,7 +204,7 @@ The FINE Flow Tool Kit is the result of a research collaboration between Dr. Cra
 
 ### Published Paper: Value Stream Reference Architecture (DevOps Institute)
 
-If you would like to know more about the original research behind the FINE Flow Evaluation Tool Kit, a published paper by Statham and Walters is available. The paper can be accessed from the DevOps Institute through their (Free) "SKILup IT Learning Lite" site: https://www.devopsinstitute.com/skilup-it-learning/. Sign up to [access the site](https://member.devopsinstitute.com/skitl-lite-sign-up) and then select the lesson on Value Stream Reference Architecure using the link: https://skilupit.thinkific.com/courses/value-stream-reference-architecture-paper
+If you would like to know more about the original research behind the FINE Flow Evaluation Tool Kit, a published paper by Statham and Walters is available. The paper can be accessed from the DevOps Institute through their (Free) "SKILup IT Learning Lite" site: https://www.devopsinstitute.com/skilup-it-learning/. Sign up to [access the site](https://member.devopsinstitute.com/skitl-lite-sign-up) and then select the lesson on "Value Stream Reference Architecure" using the link: https://skilupit.thinkific.com/courses/value-stream-reference-architecture-paper
 
 ### Book: Team Topologies
 
