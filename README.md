@@ -58,7 +58,7 @@ The following global modules are used from the standard python libraries:
 ### Installation
 > No special installation is required to use the Python files contained in this tool kit.
 
-Simply clone or download this project and run the files from you local Python installation. We recommend running the utilites as tests that you create in your unit testing framework of choice. Running and keeping all of the Python files together in a single folder is the simplest approach.
+Simply clone or download this project and run the files from your local Python installation. We recommend running the utilites as tests that you create in your unit testing framework of choice. Running and keeping all of the Python files together in a single folder is the simplest approach.
 
 ## Running
 The easiest way to use the FINE Flow Evaluation Tool Kit is to create your own tests that can be run under the Python UnitTest or similar testing framework. An example test file is provided that demonstrates this approach: [test_BakersUnlimited.py](/source/test_BakersUnlimited.py). To create your own tests, begin by adding the following imports into your test file to use the tool kit:
@@ -197,14 +197,14 @@ In the example below, we use values for impediments and energy that were observe
 ## Additional Resources
 The FINE Flow Tool Kit is the result of a research collaboration between Dr. Craig Statham of SAS, and Stephen Walters of GitLab. As experts in the field of Sofware Development, DevOps, and Value Stream Management, Statham and Walters found a joint curiosity around trying to understand why software teams work the way they do, and attempting to formulate the relationship that exists between flow of user value and team organization. The FINE flow model was born out of this curiosity and resulted in the tool kit you see here today. The authors welcome feedback and comments. Please feel free connect with them on LinkedIn.
 
-Dr. Craig Statham - SAS Institute Inc.<br />
-Stephen Walters - GitLab Inc.
+[Dr. Craig Statham - SAS Institute Inc.](https://www.linkedin.com/in/craig-statham/)<br />
+[Stephen Walters - GitLab Inc.](https://www.linkedin.com/in/1stephenwalters/)
 
 ## Further Reading
 
-### White Paper: Value Stream Reference Architecture
+### Published Paper: Value Stream Reference Architecture (DevOps Institute)
 
-If you would like to know more about the original research behind the FINE Flow Evaluation Tool Kit, a white paper by Statham and Walters is available. The paper can be accessed from the DevOps Institute through their (Free) "SKILup IT Learning Lite" site: https://www.devopsinstitute.com/skilup-it-learning/. Sign up to [access the site](https://member.devopsinstitute.com/skitl-lite-sign-up) and use the search term "Statham Walters Value Stream Reference Architecture".
+If you would like to know more about the original research behind the FINE Flow Evaluation Tool Kit, a published paper by Statham and Walters is available. The paper can be accessed from the DevOps Institute through their (Free) "SKILup IT Learning Lite" site: https://www.devopsinstitute.com/skilup-it-learning/. Sign up to [access the site](https://member.devopsinstitute.com/skitl-lite-sign-up) and then select the lesson on Value Stream Reference Architecure using the link: https://skilupit.thinkific.com/courses/value-stream-reference-architecture-paper
 
 ### Book: Team Topologies
 
